@@ -1,0 +1,16 @@
+Hien thi file an: Ctrl + H
+Chon cac tab tren eclipse" Ctrl Ship E
+sudo sh activemq start       : toi thu muc bin linux 64 roi moi start
+netstat -an|grep 61616
+http://localhost:8161/admin
+
+sudo chmod -R 777 '/opt/tomcat/logs' : cach cap quyen permission
+
+/opt/tomcat$               sudo sirvice tomcat restart
+sudo service tomcat stop
+mvn clean install
+
+-------------------------------
+telnet google.com
+dung de login account tma("bi loi github")
+
